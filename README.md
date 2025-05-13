@@ -54,4 +54,6 @@ from nltk.tokenize import word_tokenize
 text = "Tokenization is important in NLP."
 tokens = word_tokenize(text)
 print(tokens)
-# Output: ['Tokenization', 'is', 'important', 'in', 'NLP', '.']
+# Output: ['Tokenization', 'is', 'important', 'in', 'NLP', '.'] 
+
+

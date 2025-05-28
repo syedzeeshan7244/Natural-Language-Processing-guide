@@ -22,6 +22,10 @@ Vocublary       Frequency
                               s3   [ 1      1      1 ]
   Binar Bow   and       Bow 
   {1 and 0}       { Count will get updated base on frequencey}    
+
+![alt text](image.png)  
+ 
+  ![alt text](<image copy.png>)
 ***********************************************************
 🔷 ***2. Why Use BoW?***
 
@@ -89,3 +93,8 @@ Fixed Size I/P -> ML                       Ordering of the word getting change
 
 The food is good     [1  1  1  0  1 ]
 The food is not good [1  1  1  1  1 ]
+
+
+Text Preprocessing is important for every technique.
+
+![alt text](Text-Preprocessing.png)

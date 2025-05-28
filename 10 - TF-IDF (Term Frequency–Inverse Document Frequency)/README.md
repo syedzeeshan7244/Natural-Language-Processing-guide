@@ -155,3 +155,7 @@ Reduces Importance of Common Words: Automatically gives lower weight to terms th
 ***Corpus Dependent:*** The IDF values are calculated based on the specific corpus you are using. They will change if the corpus changes.
 ***Not as Advanced as Modern Techniques:*** While foundational, for tasks requiring deeper understanding of language, more advanced techniques like word embeddings (e.g., Word2Vec, GloVe, FastText) and transformer models (e.g., BERT, GPT) often perform better as they can capture semantic meanings and contextual relationships.
 
+
+Text Preprocessing is important for every technique.
+
+![alt text](Text-Preprocessing.png)

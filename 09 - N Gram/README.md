@@ -27,7 +27,9 @@ s2        1    1   1                 0          1         1
 sklearn ----> n-grams   = ( 1,1 ) ---> unigram 
                         = ( 1,2 ) ---> unigram, bigram  
 
-*********************************************************************
+![alt text](image.png)
+
+ *********************************************************************
 
 📌 ***Common types of N-grams (word-level):***
 
@@ -88,3 +90,7 @@ Trigrams (n=3): Better context, but sparser data and more computational cost.
 
 Higher N: Rarely used alone, but helpful in advanced models like language generation.
 
+
+Text Preprocessing is important for every technique.
+
+![alt text](Text-Preprocessing.png)

@@ -6,6 +6,8 @@ It turns each word into a vector of 0s and 1s:
 The length of the vector = total number of unique words (vocabulary size)
 The position of 1 = the index of the word in the vocabulary
 All other positions = 0
+![alt text](image.png)
+
 🧾 **Simple Example 1**
 
 OHE 
@@ -91,3 +93,6 @@ Large vocabulary = huge vectors: If you have 10,000 words, each word is a vector
 
 Sparse representation: Mostly 0s — not efficient.
 
+Text Preprocessing is important for every technique.
+
+![alt text](Text-Preprocessing.png)

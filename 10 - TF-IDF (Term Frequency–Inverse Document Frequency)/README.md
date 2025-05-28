@@ -39,6 +39,8 @@ s2.         0            0                    1/2 * log(3/2)
 
 s3.         0          1/3 * log(3/2)         1/3 * log(3/2)  
 
+![alt text](image.png)
+
 Advantages                                      Disadvantages
 1. Intutive                                     1. Sparsity 
 2. Fixed Size - Vocub size                      2. Out of vocublary (OOV)    

@@ -17,7 +17,7 @@ Word2Vec is a technique for NLP processing published in 2013. The word2Vec algor
 
 Word2Vec is not a single model, but two architecture choices:
 
-1. CBOW (Continuous Bag of Words)
+1. ***CBOW (Continuous Bag of Words)***
 
 Predicts a word based on its context.
 Good when data is small.
@@ -26,7 +26,7 @@ Good when data is small.
 Sentence: "I love machine learning"
 To predict "machine", CBOW uses surrounding words like ["I", "love", "learning"].
 
-2. Skip-Gram
+2. ***Skip-Gram***
 Predicts the context words given a target word.
 
 Better for large datasets and rare words.
@@ -35,6 +35,7 @@ Example:
 Given "machine" → predict: "I", "love", "learning"
 
 ✨ Key Idea
+
 Words used in similar contexts have similar meanings — Word2Vec captures this.
 
 For example:
